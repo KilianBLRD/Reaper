@@ -77,13 +77,48 @@ These settings follow the **Voron Design guidelines** for functional mechanical 
 
 ---
 
-## Installation
+## Assembly
 
-1. Print all parts  
-2. Install heat-set inserts  
-3. Assemble the carriage using the listed hardware  
-4. Route probe wiring carefully  
-5. Verify belt clip alignment before tensioning belts  
+<u>1. Heat-set inserts :</u>
+
+- install the 5 heatset insterts as shown in the pictures below.
+
+<img src="images/step1.1.jpg" height="300"> <img src="images/step1.2.jpg" height="300">
+
+<u>2. Klicky assembly</u>
+
+- strip the wires on 20mm.
+
+<img src="images/step2.1.jpg" height="300">
+
+- pass them through the holes and wind them as shown in the pictures below.
+
+<img src="images/step2.2.jpg" height="300"> <img src="images/step2.3.jpg" height="300"> <img src="images/step2.4.jpg" height="300">
+
+- put the magnets on the probe to make sure they will be installed the right way and press them in the holes
+
+<img src="images/step2.5.jpg" height="300"> <img src="images/step2.6.jpg" height="300">
+
+<u>3. belt clips assembly</u>
+
+- install the rear part of the carriage using the center screw ( M3 x 15mm ) do not tighten it
+
+<img src="images/step3.1.jpg" height="300">
+
+- install the belts in the clips as shown below ( the brown part of the lower belt part should be facing up when installed on the printer )
+
+<img src="images/step3.2.jpg" height="300">
+
+- put the clips in place and using the two M3 x 30mm screws
+
+<img src="images/step3.3.jpg" height="300">
+
+- tighten the three screws
+
+<img src="images/step3.4.jpg" height="300">
+
+
+<u>4. follow the [Installation Manual](https://github.com/APDMachine/Reaper/blob/main/Manual/Manual.pdf) to finish the toolhead assembly</u>
 
 ---
 
