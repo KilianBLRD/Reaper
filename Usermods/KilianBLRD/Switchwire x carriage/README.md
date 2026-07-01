@@ -10,7 +10,7 @@ I wanted to use the Reaper toolhead on my Switchwire conversion, so I designed t
 
 This carriage is currently **only compatible with the Klicky Probe and sensorless homming**:
 
-- [Klicky Probe (Switchwire version)](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/Switchwire)
+- [Klicky Probe (Switchwire version)](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/Switchwire) ( shortened arms required )
 
 More probing solutions may be added in the future based on community feedback.
 
