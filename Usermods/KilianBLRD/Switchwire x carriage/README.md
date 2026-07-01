@@ -125,7 +125,7 @@ These settings follow the **Voron Design guidelines** for functional mechanical 
 
 - Voron Switchwire  
 - Reaper Toolhead  
-- Klicky Probe (Switchwire version only for now)
+- Klicky Probe (Switchwire version ) only for now
 
 ---
 
